@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = {
+module.imports = {
 
   types: [
     {value: 'feat',     name: 'feat:     A new feature'},
